@@ -43,7 +43,7 @@ int maxNumThumbsUp;
 
 
 void setup() {
-  size(1600,988);
+  size(1080,540);
 
   plotX1 = 120;
   plotX2 = width - 80;
