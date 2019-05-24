@@ -33,7 +33,7 @@ web-export/
 output/
 savedImages/
 srcFiles/
-*.jpg
+# *.jpg
 *.JPG
 *.tiff
 *.tif
