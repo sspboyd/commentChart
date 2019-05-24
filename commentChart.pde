@@ -1,3 +1,9 @@
+import java.text.SimpleDateFormat;
+import java.text.ParseException;
+import java.util.Calendar;
+import java.util.Date;
+import java.text.DateFormat;
+
 /* 
  create an array of articles with meta data that includes things like publish date, url, and all comments (with body, author, thumbsUp...)
  
